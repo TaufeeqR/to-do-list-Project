@@ -15,3 +15,24 @@ together with HTML and CSS for my styling.
 -Internet Explorer (Chrome/Firefox/Edge)
 -Php server (Wamp/Xamp/Lamp)
 ```
+
+## GEtting Started 
+```
+```
+
+## Software Used
+```
+-Visual Studio Code
+-Chrome
+-Wamp
+```
+
+## Github Link
+```
+https://taufeeqr.github.io/to-do-list-Project/index.php
+```
+
+## Contributors
+```
+Taufeeq Rajap
+```
